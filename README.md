@@ -37,6 +37,3 @@ El sistema utiliza SQL Server para consultar la información de la base de datos
 Aplicar conocimientos de programación en C#, conexión a bases de datos y generación de reportes mediante librerías externas.
 
 
-Estudiante de tercer año de Ingeniería en Sistemas y Computación.
-
-GitHub: https://github.com/natalia-alfaro17
